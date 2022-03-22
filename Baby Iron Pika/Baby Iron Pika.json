@@ -1,0 +1,51 @@
+{
+    "metadata": {
+        "attributes": [
+            {
+                "trait_type": "Name",
+                "value": "Iron pika"
+            }
+        ],
+        "description": "Baby Pika NFT",
+        "edition": 321,
+        "external_url": "https://perkypikas.com",
+        "image": "https://www.arweave.net/v8ohCd7RD4O47Vp19d1yDHSvDtLjQ-X0nXHK1MgbwLU?ext=png",
+        "name": "Baby Iron Pika",
+        "properties": {
+            "category": "image",
+            "creators": [
+                {
+                    "address": "C4cT495YaCFRNRifx3YoGrT5BoaeKJjpiBH6JK87u3BJ",
+                    "share": 100
+                }
+            ],
+            "files": [
+                {
+                    "type": "image/png",
+                    "uri": "https://www.arweave.net/v8ohCd7RD4O47Vp19d1yDHSvDtLjQ-X0nXHK1MgbwLU?ext=png"
+                }
+            ]
+        },
+        "seller_fee_basis_points": 1500,
+        "symbol": "BABYPIKA"
+    },
+    "mint": "AsukVcZYamieet5UB4urHjyP9YTUbBgx5YQbZcKS9Lpk",
+    "tokenData": {
+        "creators": [
+            {
+                "address": "9whcJ3w9zAS4Hqm3UxiPup5QbHvLbbbCKtA1JmXkfF2i",
+                "share": 0,
+                "verified": true
+            },
+            {
+                "address": "C4cT495YaCFRNRifx3YoGrT5BoaeKJjpiBH6JK87u3BJ",
+                "share": 100,
+                "verified": false
+            }
+        ],
+        "name": "Baby Iron Pika",
+        "sellerFeeBasisPoints": 1500,
+        "symbol": "BABYPIKA",
+        "uri": "https://arweave.net/o89zr7CluHz794viFwkfmVvYa81M_-sX5OTieeVwtF8"
+    }
+}
