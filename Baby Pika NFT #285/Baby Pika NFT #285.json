@@ -1,0 +1,71 @@
+{
+    "metadata": {
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Purple stripes"
+            },
+            {
+                "trait_type": "Skins",
+                "value": "Grey"
+            },
+            {
+                "trait_type": "Body",
+                "value": "Bitcoin chain"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "Broad smile"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Googly eyes"
+            },
+            {
+                "trait_type": "Hats",
+                "value": "Headphones"
+            }
+        ],
+        "description": "Baby Pika NFT",
+        "edition": 285,
+        "external_url": "https://perkypikas.com",
+        "image": "https://www.arweave.net/2lN8i4JLaIS6DeZx8NBKvJ9HW4VYCg091WOD63wcMgA?ext=png",
+        "name": "Baby Pika NFT #285",
+        "properties": {
+            "category": "image",
+            "creators": [
+                {
+                    "address": "C4cT495YaCFRNRifx3YoGrT5BoaeKJjpiBH6JK87u3BJ",
+                    "share": 100
+                }
+            ],
+            "files": [
+                {
+                    "type": "image/png",
+                    "uri": "https://www.arweave.net/2lN8i4JLaIS6DeZx8NBKvJ9HW4VYCg091WOD63wcMgA?ext=png"
+                }
+            ]
+        },
+        "seller_fee_basis_points": 1500,
+        "symbol": "BABYPIKA"
+    },
+    "mint": "DPaasn9voyBQMxmy938w81DVs8FyoHnuoCR5awhCKQXh",
+    "tokenData": {
+        "creators": [
+            {
+                "address": "9whcJ3w9zAS4Hqm3UxiPup5QbHvLbbbCKtA1JmXkfF2i",
+                "share": 0,
+                "verified": true
+            },
+            {
+                "address": "C4cT495YaCFRNRifx3YoGrT5BoaeKJjpiBH6JK87u3BJ",
+                "share": 100,
+                "verified": false
+            }
+        ],
+        "name": "Baby Pika NFT #285",
+        "sellerFeeBasisPoints": 1500,
+        "symbol": "BABYPIKA",
+        "uri": "https://arweave.net/MZDYMv818K70pq-coKLMCZ2xFmAziIzRA3nEpFusZc0"
+    }
+}

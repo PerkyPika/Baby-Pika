@@ -1,0 +1,71 @@
+{
+    "metadata": {
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Blue"
+            },
+            {
+                "trait_type": "Skins",
+                "value": "Brown"
+            },
+            {
+                "trait_type": "Body",
+                "value": "Bitcoin chain"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "Pikachu smile"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Sunglasses"
+            },
+            {
+                "trait_type": "Hats",
+                "value": "Magician hat"
+            }
+        ],
+        "description": "Baby Pika NFT",
+        "edition": 281,
+        "external_url": "https://perkypikas.com",
+        "image": "https://www.arweave.net/SPYgR1-JfHF4bwAkVtUYHWdL_JHKi0Z1QbHMG3Tn3i4?ext=png",
+        "name": "Baby Pika NFT #281",
+        "properties": {
+            "category": "image",
+            "creators": [
+                {
+                    "address": "C4cT495YaCFRNRifx3YoGrT5BoaeKJjpiBH6JK87u3BJ",
+                    "share": 100
+                }
+            ],
+            "files": [
+                {
+                    "type": "image/png",
+                    "uri": "https://www.arweave.net/SPYgR1-JfHF4bwAkVtUYHWdL_JHKi0Z1QbHMG3Tn3i4?ext=png"
+                }
+            ]
+        },
+        "seller_fee_basis_points": 1500,
+        "symbol": "BABYPIKA"
+    },
+    "mint": "J6hEtf77d24GDkHjjijgMEgbrLw1hEpj9fZ2Vh72SVzw",
+    "tokenData": {
+        "creators": [
+            {
+                "address": "9whcJ3w9zAS4Hqm3UxiPup5QbHvLbbbCKtA1JmXkfF2i",
+                "share": 0,
+                "verified": true
+            },
+            {
+                "address": "C4cT495YaCFRNRifx3YoGrT5BoaeKJjpiBH6JK87u3BJ",
+                "share": 100,
+                "verified": false
+            }
+        ],
+        "name": "Baby Pika NFT #281",
+        "sellerFeeBasisPoints": 1500,
+        "symbol": "BABYPIKA",
+        "uri": "https://arweave.net/IBzca5PjUf36F-7qUL_hSYajaU53jHSMTw7I76oDnvQ"
+    }
+}
