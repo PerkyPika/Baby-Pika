@@ -1,0 +1,50 @@
+{
+    "name": "Baby Pika NFT #86",
+    "symbol": "BABYPIKA",
+    "description": "Baby Pika NFT",
+    "seller_fee_basis_points": 1500,
+    "image": "hhttps://raw.githubusercontent.com/PerkyPika/Baby-Pika/main/Baby%20Pika%20NFT%20%2386/Baby%20Pika%20NFT%20%2386%2008-07-22.png",
+    "external_url": "https://perkypikas.com",
+    "edition": 86,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "City night"
+        },
+        {
+            "trait_type": "Skins",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Biker jacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Rainbow smile"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Solana eyes"
+        },
+        {
+            "trait_type": "Hats",
+            "value": "Rainbow horn"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/PerkyPika/Baby-Pika/main/Baby%20Pika%20NFT%20%2386/Baby%20Pika%20NFT%20%2386%2008-07-22.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "C4cT495YaCFRNRifx3YoGrT5BoaeKJjpiBH6JK87u3BJ",
+                "share": 100
+            }
+        ]
+    }
+}
