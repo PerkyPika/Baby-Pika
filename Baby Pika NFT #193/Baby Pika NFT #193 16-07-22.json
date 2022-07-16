@@ -3,7 +3,7 @@
     "symbol": "BABYPIKA",
     "description": "Baby Pika NFT",
     "seller_fee_basis_points": 1500,
-    "image": "https://raw.githubusercontent.com/PerkyPika/Baby-Pika/main/Baby%20Pika%20NFT%20%23193/255x369.gif",
+    "image": "https://raw.githubusercontent.com/PerkyPika/Baby-Pika/main/Baby%20Pika%20NFT%20%23193/230x333.gif",
     "external_url": "https://perkypikas.com",
     "edition": 193,
     "attributes": [
@@ -23,7 +23,7 @@
     "properties": {
         "files": [
             {
-                "uri": "https://raw.githubusercontent.com/PerkyPika/Baby-Pika/main/Baby%20Pika%20NFT%20%23193/255x369.gif",
+                "uri": "https://raw.githubusercontent.com/PerkyPika/Baby-Pika/main/Baby%20Pika%20NFT%20%23193/230x333.gif",
                 "type": "image/gif"
             }
         ],
