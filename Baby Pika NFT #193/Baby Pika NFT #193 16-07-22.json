@@ -1,0 +1,38 @@
+{
+    "name": "Baby Pika NFT #193",
+    "symbol": "BABYPIKA",
+    "description": "Baby Pika NFT",
+    "seller_fee_basis_points": 1500,
+    "image": "https://raw.githubusercontent.com/PerkyPika/Baby-Pika/main/Baby%20Pika%20NFT%20%23193/Unicorn%20A%20NFT%20%23193.gif",
+    "external_url": "https://perkypikas.com",
+    "edition": 193,
+    "attributes": [
+        {
+            "trait_type": "Mount",
+            "value": "Unicorn"
+        },
+        {
+            "trait_type": "Tier",
+            "value": "A"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/PerkyPika/Baby-Pika/main/Baby%20Pika%20NFT%20%23193/Unicorn%20A%20NFT%20%23193.gif",
+                "type": "image/gif"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "C4cT495YaCFRNRifx3YoGrT5BoaeKJjpiBH6JK87u3BJ",
+                "share": 100
+            }
+        ]
+    }
+}
